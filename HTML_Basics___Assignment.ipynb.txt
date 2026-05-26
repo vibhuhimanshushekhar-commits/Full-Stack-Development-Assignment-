@@ -1,0 +1,43 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Question 1: Explain the basic structure of an HTML page. Why is it important to follow this structure?\n",
+        "\n",
+        "Answer: The basic structure of an HTML page consists of a few essential tags that define the document's framework:"
+      ],
+      "metadata": {
+        "id": "xD2hYl4jJrZl"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "<!DOCTYPE html>: Declares the document type and tells the browser it is an HTML5 document.\n",
+        "<html>: The root element that wraps all the content on the entire web page.\n",
+        "<head>: Contains meta-information about the HTML page, such as the document's <title>, character set, and links to CSS stylesheets. This content is generally not visible on the webpage itself.\n",
+        "<body>: Contains all the visible content of the webpage, such as headings, paragraphs, images, links, and lists."
+      ],
+      "metadata": {
+        "id": "PPIz13cEK91y"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
